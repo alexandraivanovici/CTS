@@ -5,7 +5,6 @@ public class Portar extends Jucator{
         super(nume, meciuriJucate);
     }
 
-
     public String toString() {
         final StringBuilder sb = new StringBuilder("Portar{");
         sb.append('}');
