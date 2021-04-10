@@ -1,4 +1,4 @@
-package cts.ase.ro.adapter.clase;
+package ro.ase.cts.adapter.clase;
 
 public class Leasing {
     private String numeClient;

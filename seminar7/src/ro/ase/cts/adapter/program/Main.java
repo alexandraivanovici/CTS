@@ -1,9 +1,9 @@
 package ro.ase.cts.adapter.program;
 
-import cts.ase.ro.adapter.clase.AdapterCredit;
-import cts.ase.ro.adapter.clase.AdapterCreditClasa;
-import cts.ase.ro.adapter.clase.CreditAbstract;
-import cts.ase.ro.adapter.clase.Leasing;
+import ro.ase.cts.adapter.clase.AdapterCredit;
+import ro.ase.cts.adapter.clase.AdapterCreditClasa;
+import ro.ase.cts.adapter.clase.CreditAbstract;
+import ro.ase.cts.adapter.clase.Leasing;
 
 public class Main {
 
