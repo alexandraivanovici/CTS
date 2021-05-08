@@ -14,6 +14,5 @@ public class Main {
         managerComenzi.executaComanda();
         managerComenzi.invocaComanda(new ComandaRetragere(contBancar, 150));
         managerComenzi.executaComanda();
-
     }
 }
